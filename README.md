@@ -18,3 +18,4 @@ Fake news has become one of the biggest challenges in the digital world, and thi
 
 OUTPUT:
 
+<img width="1361" height="594" alt="Image" src="https://github.com/user-attachments/assets/1fdc6944-c570-4db1-b0a8-c7312e789588" />
